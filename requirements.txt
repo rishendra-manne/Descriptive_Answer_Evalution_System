@@ -1,10 +1,10 @@
-streamlit
-numpy
-torch
-scikit-learn
-pandas
-spacy
-transformers
-opencv-python
-tensorflow_hub
--e.
+streamlit==1.35.0
+numpy==1.26.4
+torch==2.2.2
+scikit-learn==1.4.2
+pandas==2.2.2
+spacy==3.7.4
+transformers==4.41.1
+opencv-python==4.9.0.80
+tensorflow_hub==0.16.1
+-e .
