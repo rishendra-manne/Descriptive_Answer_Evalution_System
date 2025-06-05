@@ -1,0 +1,11 @@
+streamlit
+numpy
+torch
+scikit-learn
+pandas
+spacy
+transformers
+opencv-python
+tensorflow_hub
+huggingface_hub
+-e.
